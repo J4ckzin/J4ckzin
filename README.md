@@ -1,5 +1,4 @@
 - 👋 Ola Sou Fabricio!
-- 👀 I’m interested in  trabalhos e novos projetos que me desafiem.
 - 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate como FrontEND
 - 📫 How to reach me
