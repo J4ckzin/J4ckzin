@@ -1,6 +1,6 @@
 - 👋 Ola Sou Fabricio!
 - 🌱 I’m currently learning FullStack
-- 💞️ I’m looking to collaborate como FrontEND
+- 💞️ I’m looking to collaborate as FrontEND
 - 📫 How to reach me
 - 📝 hk7650800@gmail.com
 
